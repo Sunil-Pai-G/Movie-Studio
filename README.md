@@ -5,3 +5,5 @@ A guest user could only view the trailers,comments and rating.
 This project extensively used javascript DOM .Besides that, php was used for the login/register parts and a bit of bootstrap was also used to customise the interface.
 
 The interface also has speech enabled which informs about the movie when in its page.
+
+The backend was implemented in MySQL database using phpMyadmin provided by XAMPP
